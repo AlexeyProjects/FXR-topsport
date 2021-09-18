@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Evander';
+	font-weight: 800;
+	src: url('evanderdemoblack.otf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+	font-family: 'Evander';
+	font-weight: 300;
+	src: url('evanderdemolight.otf') format('truetype'); /* Safari, Android, iOS */
+}
